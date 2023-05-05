@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Labs</name>
+    </assembly>
+    <members>
+        <member name="T:Labs.resources.ResAdmin">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblActions">
+            <summary>
+              Looks up a localized string similar to Actions.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblCategoryName">
+            <summary>
+              Looks up a localized string similar to Category Name.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblGpu">
+            <summary>
+              Looks up a localized string similar to Gpu.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblHardDisk">
+            <summary>
+              Looks up a localized string similar to Hard Disk.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblImage">
+            <summary>
+              Looks up a localized string similar to Image.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblItemName">
+            <summary>
+              Looks up a localized string similar to Item Name.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblItemType">
+            <summary>
+              Looks up a localized string similar to Item Type.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblOS">
+            <summary>
+              Looks up a localized string similar to OPerting System.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblPrice">
+            <summary>
+              Looks up a localized string similar to Price.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblProcessor">
+            <summary>
+              Looks up a localized string similar to Processor.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblPurchasePrice">
+            <summary>
+              Looks up a localized string similar to Purchase Price.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblRamSize">
+            <summary>
+              Looks up a localized string similar to Ram Size.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblSalesPrice">
+            <summary>
+              Looks up a localized string similar to Sales Price.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblScreenResoluation">
+            <summary>
+              Looks up a localized string similar to Screen Resolution.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblScreenSize">
+            <summary>
+              Looks up a localized string similar to Screen Size.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblShowHomePage">
+            <summary>
+              Looks up a localized string similar to Show in Home Page.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.lblWeight">
+            <summary>
+              Looks up a localized string similar to Weight.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResAdmin.msgItemName">
+            <summary>
+              Looks up a localized string similar to Please Enter Item Name.
+            </summary>
+        </member>
+        <member name="T:Labs.resources.ResGeneral">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResGeneral.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResGeneral.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResGeneral.lblActions">
+            <summary>
+              Looks up a localized string similar to Actions.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResGeneral.lblEdit">
+            <summary>
+              Looks up a localized string similar to Edit.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResGeneral.lblNew">
+            <summary>
+              Looks up a localized string similar to New.
+            </summary>
+        </member>
+        <member name="P:Labs.resources.ResGeneral.lblSave">
+            <summary>
+              Looks up a localized string similar to Save.
+            </summary>
+        </member>
+    </members>
+</doc>
